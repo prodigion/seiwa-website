@@ -104,9 +104,9 @@ button[disabled]:hover {
 /* Navigation */
 .nav {
   border-radius: 5px;
-  border: 1px #b22222 solid;
+  border: 1px #1564da solid;
   box-shadow: 0 0 5px #888;
-  background: #b22222;
+  background: #1564da;
   padding: 0 0.625em;
   margin-bottom: 10px;
 }
@@ -162,7 +162,7 @@ button[disabled]:hover {
 
 .primaryNav a:hover,
 .primaryNav a:active {
-  background: #cd5c5c;
+  background: #5c76cd;
 }
 
 .socialNav {
@@ -312,7 +312,7 @@ button[disabled]:hover {
 
 .flex-section {
   flex: 1;
-  background-color: #d22b2b;
+  background-color: #1564da;
   border-radius: 5px;
   margin: 5px;
   padding: 10px;
@@ -420,7 +420,7 @@ button[disabled]:hover {
 
 .member-tab:checked + label {
   border: 1px solid #BBBBBB;
-  border-top: 2px solid #B22222;
+  border-top: 2px solid #1564da;
   border-bottom: 0px solid;
   color: #555;
 }
@@ -434,7 +434,7 @@ button[disabled]:hover {
 }
 
 .member-tab + label:hover {
-  color: #B22222;
+  color: #1564da;
   cursor: pointer;
 }
 
