@@ -1,4 +1,4 @@
-# niwa-website
+# seiwa-website
 These are the files for the SEIWA website (http://seiwanetwork.org/), a PHP project forked from the NIWA website. The purpose of this repository is to make it easy for all SEIWA members to contribute and update information.
 
 ## Dependencies
